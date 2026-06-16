@@ -108,33 +108,60 @@ HotelManagementSystem.java
 
 ---
 
-## Screenshots
+# 📸 Project Screenshots
 
-### Login Screen
-
-(Add Screenshot Here)
-
-### Dashboard
-
-(Add Screenshot Here)
-
-### Reception Panel
-
-(Add Screenshot Here)
-
-### Customer Registration
-
-(Add Screenshot Here)
-
-### Employee Management
-
-(Add Screenshot Here)
-
-### Room Management
-
-(Add Screenshot Here)
+## 🏠 Home Screen
+![Home](home.png)
 
 ---
+
+## 🔐 Login Page
+![Login](login.png)
+
+---
+
+## 🖥️ Dashboard
+![Dashboard](dashboard.png)
+
+---
+
+## 🏨 Reception Panel
+![Reception](frontpage.png)
+
+---
+
+## 👤 Add Customer
+![Add Customer](addcustomer.png)
+
+---
+
+## 👨‍💼 Add Employee
+![Add Employee](addemployee.png)
+
+---
+
+## 🚗 Add Driver
+![Add Driver](adddriver.png)
+
+---
+
+## 🛏️ Add Rooms
+![Add Rooms](addrooms.png)
+
+---
+
+## 👥 All Employees
+![All Employees](allemployees.png)
+
+---
+
+## 🛌 Rooms Information
+![Rooms](rooms.png)
+
+---
+
+## ✅ Checkout Module
+![Checkout](checkout.png)
 
 ##  Learning Outcomes
 
