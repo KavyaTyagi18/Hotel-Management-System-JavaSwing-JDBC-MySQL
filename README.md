@@ -125,16 +125,6 @@ HotelManagementSystem.java
 
 ---
 
-## 🏨 Reception Panel
-![Reception](frontpage.png)
-
----
-
-## 👤 Add Customer
-![Add Customer](addempoyees.png)
-
----
-
 ## 👨‍💼 Add Employee
 ![Add Employee](addemployee.png)
 
