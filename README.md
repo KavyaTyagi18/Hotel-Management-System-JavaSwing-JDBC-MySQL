@@ -161,7 +161,7 @@ HotelManagementSystem.java
 ---
 
 ## ✅ Checkout Module
-![Checkout](checkout.png)
+![Checkout](checkout.pnng)
 
 ##  Learning Outcomes
 
