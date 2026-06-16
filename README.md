@@ -131,7 +131,7 @@ HotelManagementSystem.java
 ---
 
 ## 👤 Add Customer
-![Add Customer](addcustomer.png)
+![Add Customer](addempoyees.png)
 
 ---
 
